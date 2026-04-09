@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "name": "brain",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lucaspanjer/claude-brain.git"
+      },
+      "description": "Personal knowledge base skills — ingest web pages, query your wiki, lint for consistency, and bootstrap new brains",
+      "version": "1.0.0"
+    }
+  ]
+}
