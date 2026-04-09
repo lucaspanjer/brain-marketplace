@@ -1,4 +1,9 @@
 {
+  "name": "brain-marketplace",
+  "description": "Claude Code Brain Marketplace",
+  "owner": {
+    "name": "Lucas Panjer"
+  },
   "plugins": [
     {
       "name": "brain",
